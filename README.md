@@ -8,7 +8,7 @@ Write a program that takes three points (x1, y1), (x2, y2) and (x3, y3) from the
 Write a program that takes coordinates (x, y) of a center of a circle and its radius from the user, the program will determine whether a point lies inside the circle, on the circle or outside the circle.
 # Problem 4
 Write a program that takes a character from the user and determines whether the character entered is a capital letter, a small case letter, a digit or a special symbol. The following table shows the range of ASCII values for various characters.
-#Problem 5
+# Problem 5
 Write a program using a switch statement that takes one value from the user and asks about the type of conversion and then performs a conversion depending on the type of conversion. If user enters:
 I -> convert from inches to centimeters.
 G -> convert from gallons to liters.
