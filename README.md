@@ -25,6 +25,6 @@ Write a program using a for loop that prints the following series.
 # Problem 9
 Write a program using a for loop that prints the following output (you need to find a pattern to print letters in this order):
 A B D H P
-# Problem 12
+# Problem 10
 Write a program using a loop that prints the following output.
 1 2 2 3 3 3 4 4 4 4 5 5 5 5 5 6 6 6 6 6 6 . . . nth iteration.
