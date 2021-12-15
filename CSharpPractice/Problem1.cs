@@ -20,6 +20,10 @@ namespace CSharpPractice
             {
                 Console.WriteLine(Convert.ToChar(aschiVal - 32));
             }
+            else
+            {
+                Console.WriteLine("Invalid Input!");
+            }
         }
     }
 }
