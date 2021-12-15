@@ -14,6 +14,7 @@ namespace CSharpPractice
             //Problem6 problem6 = new Problem6();
             //Problem7 problem7 = new Problem7();    
             //Problem8 problem8 = new Problem8();
+            Problem9 problem9  = new Problem9();
         }
     }
 }
