@@ -28,3 +28,15 @@ A B D H P
 # Problem 10
 Write a program using a loop that prints the following output.
 1 2 2 3 3 3 4 4 4 4 5 5 5 5 5 6 6 6 6 6 6 . . . nth iteration.
+
+# Problem 11
+An array is given , need to generate another array by rearranging values sequentially,
+i.e.
+b[0] = a[0]
+b[1] = a[UpperBound]
+b[2] = a[1]
+and so on.
+Then return true or false based on whether the newly created array is sorted or not.
+
+# Problem 12
+You are given an array of string arr. Your task is to construct a string from the words in arr, starting with 0th character from each word(in the order they appear in 'arr), followed by the 1st character, then the 2nd character, etc. If one of the words doesn't have an ith character,skip that word. Return the resulting string.

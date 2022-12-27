@@ -15,7 +15,12 @@ namespace CSharpPractice
             //Problem7 problem7 = new Problem7();    
             //Problem8 problem8 = new Problem8();
             //Problem9 problem9  = new Problem9();
-            Problem10 problem10 = new Problem10();
+            //Problem10 problem10 = new Problem10();
+            /*Problem11 prob11 = new Problem11();
+            Console.WriteLine(prob11.IsSort());*/
+            Problem12 prob12 = new Problem12();
+            prob12.ConstructedString();
+
         }
     }
 }
